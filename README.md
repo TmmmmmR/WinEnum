@@ -1,6 +1,6 @@
 # WinEnum
 
-Toolkit to detected abnormal activities on a Windows machine.
+Toolkit to detected abnormal activities within a Windows machine.
 
 # Usage 
 
